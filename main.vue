@@ -1,6 +1,7 @@
 <template>
     <div>
-        
+        1234
+        5678
     </div>
 </template>
 <script>
