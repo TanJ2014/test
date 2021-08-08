@@ -1,9 +1,6 @@
 <template>
     <div>
-        1234
-        5678
-        91011
-        <h1>我是标题</h1>
+        <h1>我是一个页眉</h1>
     </div>
 </template>
 <script>
